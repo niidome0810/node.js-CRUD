@@ -1,0 +1,19 @@
+{
+  "name": "node.js_mySQL",
+  "version": "1.0.0",
+  "description": "# 参考サイト Express.js(node.js)からMySQLへの接続とCRUD操作 https://reffect.co.jp/node-js/express-js-connect-mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
